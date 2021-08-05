@@ -1,5 +1,5 @@
 {
-  "name": "@nghinv/react-native-ijk-player",
+  "name": "react-native-ijk-player",
   "version": "0.0.1",
   "description": "IJKPlayer for react native",
   "main": "lib/commonjs/index",
