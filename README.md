@@ -1,2 +1,2 @@
-# react-native-ffmpeg
+# react-native-ijk-player
 
